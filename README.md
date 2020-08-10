@@ -8,7 +8,7 @@
 ### Materials for prep
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48"> Leetcode](https://leetcode.com)<br/><br/>
 [<img src="https://www.interviews.school/icons/icon-512x512.png?v=cedbca1e2154679cc269b4cb521932f2" width="48" height="48"> Interview.school](https://www.interviews.school/)<br/><br/>
-[<img src="https://images-na.ssl-images-amazon.com/images/I/71jRvBEDNmL.jpg" width="48" height="68"> Cracking the coding interview](https://drive.google.com/file/d/1AH4LupxQOhV84IA26ev_Y8uVHh--S5tl/view?usp=sharing)<br/><br/><br/>
+[<img src="https://images-na.ssl-images-amazon.com/images/I/71jRvBEDNmL.jpg" width="48" height="68"> Cracking the coding interview](https://drive.google.com/file/d/1AH4LupxQOhV84IA26ev_Y8uVHh--S5tl/view?usp=sharing) (**It is your choice to download it due to copyrights.** :hankey:)<br/><br/><br/>
 
 Company | Location | Notes
 ------------ | ------------- | ------------
