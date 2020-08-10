@@ -6,7 +6,7 @@
 
 ## Misc:
 ### Materials for prep
-- ![icon](https://imgbox.com/L1nVvs7U)
+- [logo]: https://d2wnixsywa9nb4.cloudfront.net/wp-content/uploads/2017/12/02135818/LeetCode_logo.png "Logo Title Text 2"
 
 Company | Location | Notes
 ------------ | ------------- | ------------
