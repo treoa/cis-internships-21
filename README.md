@@ -27,12 +27,13 @@ Company | Location | Notes
 [Uber](https://www.uber.com/us/en/careers/list/) | Various | 
 [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-United-States/1295250?source=Pitt+CSC&tags=CDC+SnNG+students-and-new-graduate-programs) | San Jose, Seattle, RTP, San Francisco, Richardson, Austin, Fulton, Cambridge, Boxborough, Richfield, Alpharetta | 
 [Bloomberg](https://careers.bloomberg.com/job/detail/84159) | New York, NY | 
-[Nvidia](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/) |  | 
+[Nvidia](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/) | Various | 
 [Black Rock](https://careers.blackrock.com/students) | New York, NY | 
 [Qualcomm](https://www.qualcomm.com/company/careers) | Various | 
 [Intel](https://jobs.intel.com/page/show/internships) | Various | 
 [Nuro](https://nuro.ai/careers) | Mountain View, CA | 
 [Mozilla](https://careers.mozilla.org/internships/) | Various | 
+[Yandex](https://yandex.ru/yaintern) | St. Petersburg, Moscow | Internship period begins usually in spring
 
 ### Additional
 Also you can find some summer job opportunities in startups through [Andel Co](https://angel.co/jobs?ref=onboarding)
