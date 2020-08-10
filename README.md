@@ -6,7 +6,7 @@
 
 ## Misc:
 ### Materials for prep
-![alt text](https://www.saashub.com/images/app/service_logos/66/782e488ee023/large.png?1565919645 "Logo Title Text 1")
+<img src="https://leetcode.com/" data-canonical-src="https://www.saashub.com/images/app/service_logos/66/782e488ee023/large.png?1565919645" width="48" height="48" />
 
 Company | Location | Notes
 ------------ | ------------- | ------------
