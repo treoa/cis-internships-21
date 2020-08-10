@@ -6,7 +6,7 @@
 
 ## Misc:
 ### Materials for prep
-![Leetcode <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48">](https://leetcode.com)
+![<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48">](https://leetcode.com)
 
 Company | Location | Notes
 ------------ | ------------- | ------------
