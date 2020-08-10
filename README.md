@@ -6,7 +6,7 @@
 
 ## Misc:
 ### Materials for prep
-- [Leetcode [![icon](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.saashub.com%2Fleetcode-alternatives&psig=AOvVaw3vE2E1x5z_Ra1CSepwkQrg&ust=1597160679709000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjG9ar9kOsCFQAAAAAdAAAAABAD)]]
+- ![icon](https://www.saashub.com/images/app/service_logos/66/782e488ee023/large.png?1565919645)
 
 Company | Location | Notes
 ------------ | ------------- | ------------
