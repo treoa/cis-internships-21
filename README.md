@@ -33,4 +33,4 @@ Company | Location | Notes
 [Black Rock](https://careers.blackrock.com/students) | New York, NY | 
 
 
-P.S. If the link goes nowhere - for now it is inaccessible. Or if you have a working link - ![pull request](https://img.shields.io/github/issues-pr/treoa/cis-internships-21) or add through [this form](https://forms.gle/CAYbDqid9zuWVAnu9)
+P.S. If the link goes nowhere - for now it is inaccessible. Or if you have a working link - ![pull request](https://img.shields.io/github/issues-pr/treoa/cis-internships-21) or add through [this Google form](https://forms.gle/CAYbDqid9zuWVAnu9)
