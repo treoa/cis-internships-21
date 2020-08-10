@@ -21,7 +21,7 @@ Company | Location | Notes
 [Amazon](https://www.amazon.jobs/en/jobs/1204415/software-development-engineer-internship-summer-2021-us?ref=PittCSC) | Various | 
 [Microsoft](https://careers.microsoft.com/students/us/en) | Various | 
 [Stripe](https://stripe.com/jobs) | Various | For now internships are still closed. If no internships try to look after some time
-[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/) | Chicago, New York, other global locations | 
+[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/) | Various | 
 [Twitter](https://careers.twitter.com/en/university.html) |  | 
 [Apple](https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN) | Cupertino, CA | 
 [Uber](https://www.uber.com/us/en/careers/list/) | Various | 
@@ -29,6 +29,10 @@ Company | Location | Notes
 [Bloomberg](https://careers.bloomberg.com/job/detail/84159) | New York, NY | 
 [Nvidia](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/) |  | 
 [Black Rock](https://careers.blackrock.com/students) | New York, NY | 
+[Qualcomm](https://www.qualcomm.com/company/careers) | Various | 
+[Intel](https://jobs.intel.com/page/show/internships) | Various | 
 
+### Additional
+Also you can find some summer job opportunities in startups through [Andel Co](https://angel.co/jobs?ref=onboarding)
 
 P.S. If the link goes nowhere - for now it is inaccessible. Or if you have a working link - ![pull request](https://img.shields.io/github/issues-pr/treoa/cis-internships-21) or add through [this Google form](https://forms.gle/CAYbDqid9zuWVAnu9)
