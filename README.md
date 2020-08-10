@@ -7,6 +7,7 @@
 ## Misc:
 ### Materials for prep
 [Leetcode <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48">](https://leetcode.com)
+[Interview.school <img src="https://www.interviews.school/icons/icon-512x512.png?v=cedbca1e2154679cc269b4cb521932f2" width="48" height="48">](https://www.interviews.school/)
 
 Company | Location | Notes
 ------------ | ------------- | ------------
