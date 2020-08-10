@@ -2,7 +2,7 @@
 
 :sunny: Internship for Summer 2021 for CIS regions :earth_asia: 
 
-:man_technologist: You can add more companies to this list ![here](https://forms.gle/CAYbDqid9zuWVAnu9) :woman_technologist:
+:man_technologist: You can add more companies to this list [here](https://forms.gle/CAYbDqid9zuWVAnu9) :woman_technologist:
 
 ## Misc:
 ### Materials for prep
