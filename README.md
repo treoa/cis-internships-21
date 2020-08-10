@@ -6,8 +6,9 @@
 
 ## Misc:
 ### Materials for prep
-[Leetcode <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48">](https://leetcode.com)  
-[Interview.school <img src="https://www.interviews.school/icons/icon-512x512.png?v=cedbca1e2154679cc269b4cb521932f2" width="48" height="48">](https://www.interviews.school/)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48"> Leetcode](https://leetcode.com)  
+[<img src="https://www.interviews.school/icons/icon-512x512.png?v=cedbca1e2154679cc269b4cb521932f2" width="48" height="48"> Interview.school](https://www.interviews.school/)  
+[<img src="https://images-na.ssl-images-amazon.com/images/I/71jRvBEDNmL.jpg" width="48" height="54"> Interview.school](https://drive.google.com/file/d/1AH4LupxQOhV84IA26ev_Y8uVHh--S5tl/view?usp=sharing)  
 
 Company | Location | Notes
 ------------ | ------------- | ------------
