@@ -6,7 +6,7 @@
 
 ## Misc:
 ### Materials for prep
-- ![icon](https://www.saashub.com/images/app/service_logos/66/782e488ee023/large.png?1565919645)
+- ![icon](https://lh3.googleusercontent.com/3xSdQaTW7QaT9J4P85VB1RpaPBw3bPupdLk3JuTCq0bv3ONLuZJG7IAOwhGTXOBiP-M3LQoH8RI=w128-h128-e365)
 
 Company | Location | Notes
 ------------ | ------------- | ------------
