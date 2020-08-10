@@ -15,21 +15,19 @@ Company | Location | Notes
 [Palantir](https://jobs.lever.co/palantir/?commitment=Internship&src=PittCSC) | Various |
 [Facebook](https://www.facebook.com/careers/jobs/654496918442526/) | Various | 
 [Google](https://careers.google.com/students/) | Various | 
-[Lyft]() |  | 
+[Lyft](https://www.lyft.com/careers) |  | 
 [Jane Street](https://www.janestreet.com/join-jane-street/position/4787572002/) | New York | 
-[Deep Mind]() |  | 
-[American Express]() |  | 
+[Deep Mind](https://deepmind.com/careers/internships) |  | 
 [Amazon](https://www.amazon.jobs/en/jobs/1204415/software-development-engineer-internship-summer-2021-us?ref=PittCSC) | Various | 
 [Microsoft](https://careers.microsoft.com/students/us/en) | Various | 
 [Stripe](https://stripe.com/jobs) | Various | For now internships are still closed. If no internships try to look after some time
 [Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/) | Chicago, New York, other global locations | 
-[Twitter]() |  | 
+[Twitter](https://careers.twitter.com/en/university.html) |  | 
 [Apple](https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN) | Cupertino, CA | 
 [Uber](https://www.uber.com/us/en/careers/list/) | Various | 
 [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-United-States/1295250?source=Pitt+CSC&tags=CDC+SnNG+students-and-new-graduate-programs) | San Jose, Seattle, RTP, San Francisco, Richardson, Austin, Fulton, Cambridge, Boxborough, Richfield, Alpharetta | 
-[Snap]() |  | 
 [Bloomberg](https://careers.bloomberg.com/job/detail/84159) | New York, NY | 
-[Nvidia]() |  | 
+[Nvidia](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/) |  | 
 [Black Rock](https://careers.blackrock.com/students) | New York, NY | 
 
 
