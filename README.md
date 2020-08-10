@@ -31,6 +31,7 @@ Company | Location | Notes
 [Black Rock](https://careers.blackrock.com/students) | New York, NY | 
 [Qualcomm](https://www.qualcomm.com/company/careers) | Various | 
 [Intel](https://jobs.intel.com/page/show/internships) | Various | 
+[Nuro](https://nuro.ai/careers) | Mountain View, CA | 
 
 ### Additional
 Also you can find some summer job opportunities in startups through [Andel Co](https://angel.co/jobs?ref=onboarding)
