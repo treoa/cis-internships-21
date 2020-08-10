@@ -32,6 +32,7 @@ Company | Location | Notes
 [Qualcomm](https://www.qualcomm.com/company/careers) | Various | 
 [Intel](https://jobs.intel.com/page/show/internships) | Various | 
 [Nuro](https://nuro.ai/careers) | Mountain View, CA | 
+[Mozilla](https://careers.mozilla.org/internships/) | Various | 
 
 ### Additional
 Also you can find some summer job opportunities in startups through [Andel Co](https://angel.co/jobs?ref=onboarding)
