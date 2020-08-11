@@ -36,6 +36,6 @@ Company | Location | Notes
 [Yandex](https://yandex.ru/yaintern) | St. Petersburg, Moscow | Internship period begins usually in spring
 
 ### Additional
-Also you can find some summer job opportunities in startups through [Andel Co](https://angel.co/jobs?ref=onboarding)
+Also you can find some summer job opportunities in startups through [Angel Co](https://angel.co/jobs?ref=onboarding)
 
 P.S. If the link goes nowhere - for now it is inaccessible. Or if you have a working link - ![pull request](https://img.shields.io/github/issues-pr/treoa/cis-internships-21) or add through [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSfcYomo5gxyfMm_SApqMJcC6IFAvtELWsl_HKGT-WIoDNsZaQ/viewform?usp=sf_link)
